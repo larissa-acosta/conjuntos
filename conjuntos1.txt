@@ -1,0 +1,25 @@
+8
+D
+6, 18, 23, palacio, 55, 49
+23, 45, 49, 6, palacio
+U
+88, 54, 3, 9, 4, amor
+banana, abacate, pera, 38, 79, 22
+U
+A, 7, 64, 18, 87, C
+67, 7, Y, 64, C, 92, 108
+I
+5, 12, 87, elefante, 85, 36
+elefante, 567, 24, 12, 36, 65
+C
+19, 5, Z, patricio, 2, 6, O, nivaldo, 9
+1, 8, C, 12, F, 3, J
+U
+rato, P, peixe, 5, fada, padrinho
+67, jose, 87, abc, A
+D
+22, 56, 17, 59, 15, 34
+88, 34, 12, 90, 17
+I
+brasil, 27, Y, china, 89, 55, agosto, 44
+agosto, 6, 25, 98, china, 27
